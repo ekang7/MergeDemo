@@ -59,7 +59,7 @@ public class MergeSortAlgo {
             merge(A, p, q, r);
         }
     }
-    public static void main(String[]args)
+  /*  public static void main(String[]args)
     {
         int[]test = {0,2,3,23,-3,32,4,5};
         sort(test,0,test.length-1);
@@ -69,6 +69,6 @@ public class MergeSortAlgo {
         }
 
     }
-
+*/
 }
 
